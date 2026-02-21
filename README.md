@@ -76,7 +76,7 @@ From the cleaned data, SINDy recovered the following dynamics with  **>99% accur
 (I)' =  0.507 S I - 0.183 I
 ```
 
-*(Ground Truth: **\beta=0.50, \gamma=0.20**)*
+*(Ground Truth: **beta=0.50, gamma=0.20**)*
 
 ## 📂 Project Structure
 
